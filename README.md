@@ -1,2 +1,1 @@
-just for test!
-hehe 
+Python练习
